@@ -54,8 +54,6 @@ jspm_packages/
 .yarn-integrity
 
 # dotenv environment variables file
-.env
-.env.local
 .env.development.local
 .env.test.local
 .env.production.local
@@ -81,7 +79,6 @@ temp/
 .tmp/
 
 # Editor directories and files
-.vscode/
 .idea/
 *.swp
 *.swo
@@ -108,3 +105,7 @@ apps/api/uploads/
 
 plan.md
 tasks/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+config.bat
